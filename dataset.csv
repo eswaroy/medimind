@@ -1,0 +1,169 @@
+medicine_name,category,common_dosage
+Atorvastatin,cardiology,10-80mg once daily
+Simvastatin,cardiology,10-40mg once daily
+Lisinopril,cardiology,10-40mg once daily
+Amlodipine,cardiology,5-10mg once daily
+Metoprolol,cardiology,25-100mg twice daily
+Atenolol,cardiology,25-100mg once daily
+Clopidogrel,cardiology,75mg once daily
+Warfarin,cardiology,1-10mg as directed
+Aspirin,cardiology,75-300mg once daily
+Furosemide,cardiology,20-80mg once or twice daily
+Losartan,cardiology,25-100mg once daily
+Valsartan,cardiology,80-320mg once daily
+Digoxin,cardiology,62.5-250mcg once daily
+Nitroglycerin,cardiology,300-600mcg as needed
+Diltiazem,cardiology,60-360mg daily
+Pravastatin,cardiology,10-40mg once daily
+Carvedilol,cardiology,3.125-25mg twice daily
+Propranolol,cardiology,40-320mg daily
+Ramipril,cardiology,2.5-10mg once daily
+Amiodarone,cardiology,100-400mg daily
+Levetiracetam,neurology,500-1500mg twice daily
+Gabapentin,neurology,100-600mg three times daily
+Pregabalin,neurology,150-600mg twice daily
+Lamotrigine,neurology,25-200mg twice daily
+Escitalopram,neurology,10-20mg once daily
+Sertraline,neurology,50-200mg once daily
+Fluoxetine,neurology,20-60mg once daily
+Amitriptyline,neurology,10-75mg once daily
+Duloxetine,neurology,30-120mg once daily
+Valproic Acid,neurology,200-500mg twice daily
+Alprazolam,neurology,0.25-0.5mg three times daily
+Clonazepam,neurology,0.5-2mg twice daily
+Lorazepam,neurology,1-4mg daily
+Diazepam,neurology,2-10mg daily
+Zolpidem,neurology,5-10mg once daily
+Memantine,neurology,5-20mg once daily
+Donepezil,neurology,5-10mg once daily
+Quetiapine,neurology,25-800mg daily
+Risperidone,neurology,0.5-6mg daily
+Olanzapine,neurology,2.5-20mg daily
+Salbutamol,respiratory,100-200mcg as needed
+Fluticasone,respiratory,100-250mcg twice daily
+Budesonide,respiratory,200-400mcg twice daily
+Montelukast,respiratory,10mg once daily
+Tiotropium,respiratory,18mcg once daily
+Formoterol,respiratory,12mcg twice daily
+Salmeterol,respiratory,50mcg twice daily
+Ipratropium,respiratory,20-40mcg 3-4 times daily
+Cetirizine,respiratory,10mg once daily
+Loratadine,respiratory,10mg once daily
+Fexofenadine,respiratory,120-180mg once daily
+Fluticasone Propionate,respiratory,100-500mcg daily
+Beclomethasone,respiratory,100-400mcg daily
+Prednisolone,respiratory,5-60mg daily
+Prednisone,respiratory,5-60mg daily
+Dextromethorphan,respiratory,15-30mg 3-4 times daily
+Codeine,respiratory,15-30mg 3-4 times daily
+Guaifenesin,respiratory,200-400mg 4 times daily
+Pseudoephedrine,respiratory,60mg 4 times daily
+Phenylephrine,respiratory,10mg 4 times daily
+Omeprazole,gastroenterology,20-40mg once daily
+Pantoprazole,gastroenterology,20-80mg once daily
+Lansoprazole,gastroenterology,15-30mg once daily
+Ranitidine,gastroenterology,150mg twice daily
+Famotidine,gastroenterology,20-40mg once daily
+Ondansetron,gastroenterology,4-8mg three times daily
+Metoclopramide,gastroenterology,10mg three times daily
+Domperidone,gastroenterology,10mg three times daily
+Loperamide,gastroenterology,2-4mg as needed
+Bisacodyl,gastroenterology,5-10mg once daily
+Lactulose,gastroenterology,15-30ml twice daily
+Senna,gastroenterology,7.5-15mg once or twice daily
+Docusate,gastroenterology,100mg once or twice daily
+Mesalazine,gastroenterology,400mg three times daily
+Sulfasalazine,gastroenterology,1g three times daily
+Esomeprazole,gastroenterology,20-40mg once daily
+Rabeprazole,gastroenterology,20mg once daily
+Sucralfate,gastroenterology,1g four times daily
+Simethicone,gastroenterology,40-125mg as needed
+Mebeverine,gastroenterology,135-200mg three times daily
+Metformin,endocrinology,500-1000mg twice daily
+Gliclazide,endocrinology,40-320mg daily
+Glimepiride,endocrinology,1-4mg once daily
+Sitagliptin,endocrinology,100mg once daily
+Empagliflozin,endocrinology,10-25mg once daily
+Dapagliflozin,endocrinology,5-10mg once daily
+Insulin Glargine,endocrinology,10-50 units daily
+Insulin Aspart,endocrinology,As directed
+Levothyroxine,endocrinology,25-200mcg once daily
+Carbimazole,endocrinology,10-60mg daily
+Propylthiouracil,endocrinology,50-300mg daily
+Prednisolone,endocrinology,5-60mg daily
+Hydrocortisone,endocrinology,20-300mg daily
+Dexamethasone,endocrinology,0.5-10mg daily
+Fludrocortisone,endocrinology,50-300mcg daily
+Alendronic Acid,endocrinology,10mg once daily
+Risedronate,endocrinology,35mg once weekly
+Testosterone,endocrinology,As directed
+Estradiol,endocrinology,As directed
+Progesterone,endocrinology,As directed
+Amoxicillin,antibiotics,250-500mg three times daily
+Flucloxacillin,antibiotics,250-500mg four times daily
+Clarithromycin,antibiotics,250-500mg twice daily
+Erythromycin,antibiotics,250-500mg four times daily
+Azithromycin,antibiotics,250-500mg once daily
+Ciprofloxacin,antibiotics,250-750mg twice daily
+Levofloxacin,antibiotics,250-500mg once daily
+Trimethoprim,antibiotics,200mg twice daily
+Nitrofurantoin,antibiotics,50-100mg four times daily
+Metronidazole,antibiotics,400mg three times daily
+Doxycycline,antibiotics,100mg daily
+Tetracycline,antibiotics,250-500mg four times daily
+Cephalexin,antibiotics,250-500mg four times daily
+Cefuroxime,antibiotics,250-500mg twice daily
+Ceftriaxone,antibiotics,1-2g once daily
+Meropenem,antibiotics,500mg-1g three times daily
+Gentamicin,antibiotics,1-5mg/kg daily
+Vancomycin,antibiotics,500mg-1g twice daily
+Clindamycin,antibiotics,150-450mg four times daily
+Co-amoxiclav,antibiotics,250/125mg to 500/125mg three times daily
+Paracetamol,analgesics,500-1000mg 4-6 times daily
+Ibuprofen,analgesics,200-400mg three times daily
+Naproxen,analgesics,250-500mg twice daily
+Diclofenac,analgesics,50mg three times daily
+Codeine Phosphate,analgesics,30-60mg four times daily
+Tramadol,analgesics,50-100mg four times daily
+Morphine,analgesics,10-30mg every 4 hours
+Oxycodone,analgesics,5-10mg every 4-6 hours
+Fentanyl,analgesics,As directed
+Buprenorphine,analgesics,200-400mcg daily
+Aspirin,analgesics,300-900mg four times daily
+Celecoxib,analgesics,100-200mg once daily
+Etoricoxib,analgesics,30-120mg once daily
+Mefenamic Acid,analgesics,500mg three times daily
+Gabapentin,analgesics,300-600mg three times daily
+Pregabalin,analgesics,150-300mg twice daily
+Amitriptyline,analgesics,10-25mg three times daily
+Duloxetine,analgesics,60mg once daily
+Nortriptyline,analgesics,10-25mg three times daily
+Co-codamol,analgesics,8/500mg to 30/500mg as needed
+Acetaminophen,other,500-1000mg 4-6 times daily
+Ibuprofen,other,200-400mg three times daily
+Diphenhydramine,other,25-50mg as needed
+Loratadine,other,10mg once daily
+Cetirizine,other,10mg once daily
+Fexofenadine,other,120-180mg once daily
+Ranitidine,other,150mg twice daily
+Loperamide,other,2-4mg as needed
+Docusate,other,100mg once or twice daily
+Bisacodyl,other,5-10mg once daily
+Senna,other,7.5-15mg once or twice daily
+Glycerin,other,As directed
+Hydrocortisone Cream,other,Apply as needed
+Clotrimazole,other,Apply as directed
+Miconazole,other,Apply as directed
+Menthol,other,Apply as needed
+Camphor,other,Apply as needed
+Benzocaine,other,Apply as needed
+Oxymetazoline,other,As directed
+Zinc Oxide,other,Apply as needed
+Ventolin,respiratory,100-200mcg as needed
+Albuterol,respiratory,100-200mcg as needed
+Tylenol,analgesics,500-1000mg 4-6 times daily
+Advil,analgesics,200-400mg three times daily
+Nurofen,analgesics,200-400mg three times daily
+Paracetamol,other,500-1000mg 4-6 times daily
+Advil,other,200-400mg three times daily
+Nurofen,other,200-400mg three times daily
