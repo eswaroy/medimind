@@ -14,7 +14,7 @@ MediMind is an AI-powered medical assistant that provides chatbot-based patient 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/medimind.git
+   git clone https://github.com/eswaroy/medimind.git
    cd medimind
    ```
 
