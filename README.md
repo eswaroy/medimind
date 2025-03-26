@@ -93,6 +93,10 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 # Note the above info is completely only for app.py ( only is file with dataset.csv is enough for medimind ) all the other files are not needed. 
 
+
+## below info is for full stack which is not completely integreated. 
+
+
 # Doctor’s Assistant
 
 A web-based interface designed to assist physicians by providing real-time information about incoming patients. The application integrates with hospital management systems via APIs or databases, allowing doctors to access patient history, conditions, medications, and recent test results seamlessly.
